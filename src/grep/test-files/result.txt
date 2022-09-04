@@ -1,0 +1,527 @@
+Process:         a.out [5388]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10bf34000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5387]
+
+Date/Time:       2022-07-27 18:46:54.851 +0300
+Launch Time:     2022-07-27 18:46:54.347 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         336K
+Physical footprint (peak):  336K
+----
+
+leaks Report Version: 4.0
+Process 5388: 164 nodes malloced for 8 KB
+Process 5388: 0 leaks for 0 total leaked bytes.
+
+1:qwerty
+2:uoip
+
+3:blabla
+
+
+4:terere
+-e qfwrgwef
+
+
+AVSdfssfd
+
+
+5          qwer
+QwErTyUiOpls
+
+
+test.txt
+
+tyuiop
+
+pdoaskfjkldsf
+Process:         a.out [5402]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10e533000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5401]
+
+Date/Time:       2022-07-27 18:46:55.631 +0300
+Launch Time:     2022-07-27 18:46:55.170 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         340K
+Physical footprint (peak):  340K
+----
+
+leaks Report Version: 4.0
+Process 5402: 165 nodes malloced for 12 KB
+Process 5402: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5416]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10190d000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5415]
+
+Date/Time:       2022-07-27 18:46:56.309 +0300
+Launch Time:     2022-07-27 18:46:55.858 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         336K
+Physical footprint (peak):  336K
+----
+
+leaks Report Version: 4.0
+Process 5416: 164 nodes malloced for 8 KB
+Process 5416: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5430]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x1059b7000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5429]
+
+Date/Time:       2022-07-27 18:46:57.005 +0300
+Launch Time:     2022-07-27 18:46:56.534 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         336K
+Physical footprint (peak):  336K
+----
+
+leaks Report Version: 4.0
+Process 5430: 164 nodes malloced for 8 KB
+Process 5430: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5444]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10ac6b000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5443]
+
+Date/Time:       2022-07-27 18:46:57.683 +0300
+Launch Time:     2022-07-27 18:46:57.230 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         344K
+Physical footprint (peak):  344K
+----
+
+leaks Report Version: 4.0
+Process 5444: 164 nodes malloced for 8 KB
+Process 5444: 0 leaks for 0 total leaked bytes.
+
+0
+Process:         a.out [5458]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10539f000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5457]
+
+Date/Time:       2022-07-27 18:46:58.375 +0300
+Launch Time:     2022-07-27 18:46:57.909 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         340K
+Physical footprint (peak):  340K
+----
+
+leaks Report Version: 4.0
+Process 5458: 165 nodes malloced for 12 KB
+Process 5458: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5472]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10e96b000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5471]
+
+Date/Time:       2022-07-27 18:46:59.045 +0300
+Launch Time:     2022-07-27 18:46:58.597 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         336K
+Physical footprint (peak):  336K
+----
+
+leaks Report Version: 4.0
+Process 5472: 164 nodes malloced for 8 KB
+Process 5472: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5486]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10d2d0000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5485]
+
+Date/Time:       2022-07-27 18:46:59.725 +0300
+Launch Time:     2022-07-27 18:46:59.268 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         336K
+Physical footprint (peak):  336K
+----
+
+leaks Report Version: 4.0
+Process 5486: 164 nodes malloced for 8 KB
+Process 5486: 0 leaks for 0 total leaked bytes.
+
+1:qwerty
+2:uoip
+
+3:blabla
+
+
+4:terere
+-e qfwrgwef
+
+
+AVSdfssfd
+
+
+5          qwer
+QwErTyUiOpls
+
+
+test.txt
+
+tyuiop
+
+pdoaskfjkldsf
+0
+Process:         a.out [5513]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x108d97000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5512]
+
+Date/Time:       2022-07-27 18:47:00.428 +0300
+Launch Time:     2022-07-27 18:46:59.956 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         340K
+Physical footprint (peak):  340K
+----
+
+leaks Report Version: 4.0
+Process 5513: 165 nodes malloced for 12 KB
+Process 5513: 0 leaks for 0 total leaked bytes.
+
+0
+Process:         a.out [5527]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x1062ca000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5526]
+
+Date/Time:       2022-07-27 18:47:01.118 +0300
+Launch Time:     2022-07-27 18:47:00.655 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         340K
+Physical footprint (peak):  340K
+----
+
+leaks Report Version: 4.0
+Process 5527: 165 nodes malloced for 12 KB
+Process 5527: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5541]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10c12b000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5540]
+
+Date/Time:       2022-07-27 18:47:01.820 +0300
+Launch Time:     2022-07-27 18:47:01.357 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         336K
+Physical footprint (peak):  336K
+----
+
+leaks Report Version: 4.0
+Process 5541: 164 nodes malloced for 8 KB
+Process 5541: 0 leaks for 0 total leaked bytes.
+
+0
+Process:         a.out [5555]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x103302000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5554]
+
+Date/Time:       2022-07-27 18:47:02.496 +0300
+Launch Time:     2022-07-27 18:47:02.045 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         340K
+Physical footprint (peak):  340K
+----
+
+leaks Report Version: 4.0
+Process 5555: 165 nodes malloced for 12 KB
+Process 5555: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5569]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x1000d8000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5568]
+
+Date/Time:       2022-07-27 18:47:03.196 +0300
+Launch Time:     2022-07-27 18:47:02.728 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         336K
+Physical footprint (peak):  336K
+----
+
+leaks Report Version: 4.0
+Process 5569: 164 nodes malloced for 8 KB
+Process 5569: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5583]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10de03000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5582]
+
+Date/Time:       2022-07-27 18:47:03.868 +0300
+Launch Time:     2022-07-27 18:47:03.418 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         336K
+Physical footprint (peak):  336K
+----
+
+leaks Report Version: 4.0
+Process 5583: 164 nodes malloced for 8 KB
+Process 5583: 0 leaks for 0 total leaked bytes.
+
+Process:         a.out [5598]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x107ccc000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5597]
+
+Date/Time:       2022-07-27 18:47:04.551 +0300
+Launch Time:     2022-07-27 18:47:04.099 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         344K
+Physical footprint (peak):  344K
+----
+
+leaks Report Version: 4.0
+Process 5598: 164 nodes malloced for 8 KB
+Process 5598: 0 leaks for 0 total leaked bytes.
+
+0
+Process:         a.out [5612]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x10a8d9000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5611]
+
+Date/Time:       2022-07-27 18:47:05.222 +0300
+Launch Time:     2022-07-27 18:47:04.774 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         340K
+Physical footprint (peak):  340K
+----
+
+leaks Report Version: 4.0
+Process 5612: 165 nodes malloced for 12 KB
+Process 5612: 0 leaks for 0 total leaked bytes.
+
+1:qwerty
+2:uoip
+
+3:blabla
+
+
+4:terere
+-e qfwrgwef
+
+
+AVSdfssfd
+
+
+5          qwer
+QwErTyUiOpls
+
+
+test.txt
+
+tyuiop
+
+pdoaskfjkldsf
+0
+Process:         a.out [5626]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x108b83000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5625]
+
+Date/Time:       2022-07-27 18:47:05.892 +0300
+Launch Time:     2022-07-27 18:47:05.442 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         340K
+Physical footprint (peak):  340K
+----
+
+leaks Report Version: 4.0
+Process 5626: 165 nodes malloced for 12 KB
+Process 5626: 0 leaks for 0 total leaked bytes.
+
+1:qwerty
+2:uoip
+
+3:blabla
+
+
+4:terere
+-e qfwrgwef
+
+
+AVSdfssfd
+
+
+5          qwer
+QwErTyUiOpls
+
+
+test.txt
+
+tyuiop
+
+pdoaskfjkldsf
+0
+Process:         a.out [5640]
+Path:            /Volumes/VOLUME/*/a.out
+Load Address:    0x105d03000
+Identifier:      a.out
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [5639]
+
+Date/Time:       2022-07-27 18:47:06.567 +0300
+Launch Time:     2022-07-27 18:47:06.114 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         340K
+Physical footprint (peak):  340K
+----
+
+leaks Report Version: 4.0
+Process 5640: 165 nodes malloced for 12 KB
+Process 5640: 0 leaks for 0 total leaked bytes.
+

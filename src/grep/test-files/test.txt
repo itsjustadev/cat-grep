@@ -1,0 +1,130 @@
+
+-i a bents.txt
+4,5d3
+< GAY EMPEROR
+< 
+-i GAY bents.txt
+2,4d1
+< GAY EMPEROR
+< 
+< 
+-v biba 1.txt
+34,35d33
+< 
+< 
+-v boba 1.txt
+34,35d33
+< 
+< 
+-v a 1.txt
+12,13d11
+< 
+< 
+-v GAY 1.txt
+34,35d33
+< 
+< 
+-v - 1.txt
+34,35d33
+< 
+< 
+-v biba bents.txt
+9,10d8
+< GAY EMPEROR
+< 
+-v boba bents.txt
+10,11d9
+< GAY EMPEROR
+< 
+-v a bents.txt
+9,10d8
+< GAY EMPEROR
+< 
+-v - bents.txt
+10,11d9
+< GAY EMPEROR
+< 
+-c GAY bents.txt
+1,2c1
+< 
+< 2
+---
+> 1
+-l GAY bents.txt
+1d0
+< 
+-n GAY bents.txt
+2,3d1
+< 10:GAY EMPEROR
+< 
+-e biba -e boba -e GAY -e -s 1.txt bents.txt
+3,4d2
+< bents.txt:GAY EMPEROR
+< 
+-e biba -e boba -e GAY -e -s 2.txt bents.txt
+3,4d2
+< bents.txt:GAY EMPEROR
+< 
+-e biba -e boba -e GAY -e -s bents.txt test.txt
+3,4d2
+< bents.txt:GAY EMPEROR
+< 
+-e biba -e boba -e GAY -e -s bents.txt bents.txt
+3,4d2
+< bents.txt:GAY EMPEROR
+< 
+7,8d4
+< bents.txt:GAY EMPEROR
+< 
+-e biba -e boba -e GAY -e -s bents.txt 2.txt
+3,4d2
+< bents.txt:GAY EMPEROR
+< 
+-e biba -e boba -e GAY -e -s bents.txt 1.txt
+3,4d2
+< bents.txt:GAY EMPEROR
+< 
+-e biba -e boba -e GAY -e -s test.txt bents.txt
+3,4d2
+< bents.txt:GAY EMPEROR
+< 
+g 1.txt 2.txt bents.txt test.txt
+0a1
+> 2.txt:             urfgh
+a 1.txt 2.txt bents.txt test.txt
+0a1,24
+> 1.txt:      case 'e':
+> 1.txt:      case 'i':
+> 1.txt:      case 'v':
+> 1.txt:      case 'c':
+> 1.txt:      case 'l':
+> 1.txt:      case 'n':
+> 1.txt:      case 'h':
+> 1.txt:      case 's':
+> 1.txt:      case 'f':
+> 1.txt:      case 'o':
+> 1.txt:      case '?':
+> 1.txt:      case 'e':
+> 1.txt:      case 'i':
+> 1.txt:      case 'v':
+> 1.txt:      case 'c':
+> 1.txt:      case 'l':
+> 1.txt:      case 'n':
+> 1.txt:      case 'h':
+> 1.txt:      case 's':
+> 1.txt:      case 'f':
+> 1.txt:      case 'o':
+> 1.txt:      case '?':
+> 2.txt:a
+> bents.txt:biba
+b 1.txt 2.txt bents.txt test.txt
+0a1
+> bents.txt:biba
+i 1.txt 2.txt bents.txt test.txt
+0a1,3
+> 1.txt:      case 'i':
+> 1.txt:      case 'i':
+> bents.txt:biba
+bi 1.txt 2.txt bents.txt test.txt
+0a1
+> bents.txt:biba

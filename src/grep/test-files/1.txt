@@ -1,0 +1,33 @@
+      case 'e':
+      case 'i':
+      case 'v':
+      case 'c':
+      case 'l':
+      case 'n':
+      case 'h':
+      case 's':
+      case 'f':
+      case 'o':
+      case '?':
+      case 'e':
+
+      case 'i':
+
+      case 'v':
+
+      case 'c':
+
+      case 'l':
+
+      case 'n':
+
+      case 'h':
+
+      case 's':
+
+      case 'f':
+
+      case 'o':
+
+      case '?':
+
